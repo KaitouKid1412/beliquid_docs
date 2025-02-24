@@ -99,5 +99,8 @@
       "x": "https://x.com/Beliquid_pro",
       "telegram": "https://t.me/+oYIjg0IjYgc2MGU1"
     }
+  },
+  "appearance": {
+    "default": "dark"
   }
 }
