@@ -48,14 +48,17 @@
             ]
           },
           {
-            "group": "Endpoints",
+            "group": "Trading Endpoints",
             "pages": [
               "api-reference/endpoint/auth",
               "api-reference/endpoint/create_order",
               "api-reference/endpoint/cancel_order",
               "api-reference/endpoint/get_all_orders",
               "api-reference/endpoint/get_all_fills",
-              "api-reference/endpoint/get_user_balances"
+              "api-reference/endpoint/get_user_balances",
+              "api-reference/endpoint/get_active_markets",
+              "api-reference/endpoint/get_spot_product_ids",
+              "api-reference/endpoint/get_nonce"
             ]
           }
         ]
